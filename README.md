@@ -1,2 +1,2 @@
 # WeatherNow
-This Github repository contains the code and resources needed to build a real-time weather application that fetches weather data from OpenWeatherMap using an API key. It has a user-friendly front-end built with HTML, CSS, and JavaScript.
+This repository contains the code and resources needed to build a real-time weather application that fetches weather data from OpenWeatherMap using an API key. It has a user-friendly front-end built with HTML, CSS, and JavaScript.
